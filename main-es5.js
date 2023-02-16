@@ -59,12 +59,12 @@ var ApiService = /** @class */ (function (_super) {
     }
     ApiService.prototype.GetJsonLabel = function () {
         var version = new Date().toLocaleString();
-        var jsonPath = '../../../assets/data/schema-contents.json?' + version;
+        var jsonPath = 'https://it.loropiana.com/en/ck-static/assets/data/schema-contents.json?' + version;
         return this._get(jsonPath);
     };
     ApiService.prototype.GetJsonProducts = function () {
         var version = new Date().toLocaleString();
-        var jsonPath = '../../../assets/data/schema_products.json?' + version;
+        var jsonPath = 'https://it.loropiana.com/en/ck-static/assets/data/schema_products.json?' + version;
         return this._get(jsonPath);
     };
     ApiService.prototype.GetSample = function (id) {
