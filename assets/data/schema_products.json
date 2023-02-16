@@ -1,0 +1,1262 @@
+{
+  "groups":
+  [
+      {
+          "groupName": "WOMAN",
+          "groupLabel": {
+              "en": "Woman", 
+              "ja": "レディス", 
+              "ko": "여성", 
+              "zh": "女裝", 
+              "it": "Donna", 
+              "de": "Damen",
+              "fr": "Femme",
+              "ru": "Для женщин"
+          },
+          "sections": [
+              {
+                  "title": {
+                    "en": "HOLIDAY GIFT GUIDE", 
+                    "ja": "ホリデー ギフト ガイド", 
+                    "ko": "홀리데이 선물 가이드", 
+                    "zh": "佳節贈禮指南", 
+                    "it": "HOLIDAY GIFT GUIDE", 
+                    "de": "Weihnachtsgeschenke-Finder",
+                    "fr": "Guide cadeaux pour les fêtes",
+                    "ru": "Гид по подаркам"
+                  },
+                  "sectionName": "TOP",
+                  "postCard": "",
+                  "linkPostCard": "",
+                  "products": [
+                    {
+                      "code": "FAM6022",
+                      "color": "J1BQ",
+                      "sku": "FAM6022J1BQ",
+                      "primaryImage": "assets/images/products/FAM6022_J1BQ.png",
+                      "date": "10 November 2022 00:00 UTC"
+                    },
+                    {
+                      "code": "FAM7175",
+                      "color": "B2PQ",
+                      "sku": "FAM7175B2PQ",
+                      "primaryImage": "assets/images/products/FAM7175_B2PQ.png",
+                      "date": "10 November 2022 00:00 UTC"
+                    },
+                    {
+                      "code": "FAM6540",
+                      "color": "J1BQ",
+                      "sku": "FAM6540J1BQ",
+                      "primaryImage": "assets/images/products/FAM6540_J1BQ.png",
+                      "date": "10 November 2022 00:00 UTC"
+                    },
+                    {
+                      "code": "FAM6970",
+                      "color": "A193",
+                      "sku": "FAM6970A193",
+                      "primaryImage": "assets/images/products/FAM6970_A193.png",
+                      "date": "10 November 2022 00:00 UTC"
+                    },
+                    {
+                      "code": "FAM6010",
+                      "color": "A04T",
+                      "sku": "FAM6010A04T",
+                      "primaryImage": "assets/images/products/FAM6010_A04T.png",
+                      "date": "10 November 2022 00:00 UTC"
+                    },
+                    {
+                      "code": "FAM6404",
+                      "color": "A193",
+                      "sku": "FAM6404A193",
+                      "primaryImage": "assets/images/products/FAM6404_A193.png",
+                      "date": "10 November 2022 00:00 UTC"
+                    },
+                    {
+                      "code": "FAM4405",
+                      "color": "101B",
+                      "sku": "FAM4405101B",
+                      "primaryImage": "assets/images/products/FAM4405_101B.png",
+                      "date": "10 November 2022 00:00 UTC"
+                    },
+                    {
+                      "code": "FAM6012",
+                      "color": "D0CC",
+                      "sku": "FAM6012D0CC",
+                      "primaryImage": "assets/images/products/FAM6012_D0CC.png",
+                      "date": "10 November 2022 00:00 UTC"
+                    },
+                    {
+                      "code": "FAM6646",
+                      "color": "A04T",
+                      "sku": "FAM6646A04T",
+                      "primaryImage": "assets/images/products/FAM6646_A04T.png",
+                      "date": "10 November 2022 00:00 UTC"
+                    },
+                    {
+                      "code": "FAM7118",
+                      "color": "B2PQ",
+                      "sku": "FAM7118B2PQ",
+                      "primaryImage": "assets/images/products/FAM7118_B2PQ.png",
+                      "date": "10 November 2022 00:00 UTC"
+                    },
+                    {
+                      "code": "FAM6552",
+                      "color": 1000,
+                      "sku": "FAM65521000",
+                      "primaryImage": "assets/images/products/FAM6552_1000.png",
+                      "date": "10 November 2022 00:00 UTC"
+                    },
+                    {
+                      "code": "FAM6645",
+                      "color": "D0CC",
+                      "sku": "FAM6645D0CC",
+                      "primaryImage": "assets/images/products/FAM6645_D0CC.png",
+                      "date": "10 November 2022 00:00 UTC"
+                    },
+                    {
+                      "code": "FAM6404",
+                      "color": "50K0",
+                      "sku": "FAM640450K0",
+                      "primaryImage": "assets/images/products/FAM6404_50K0.png",
+                      "date": "10 November 2022 00:00 UTC"
+                    },
+                    {
+                      "code": "FAM6826",
+                      "color": 1000,
+                      "sku": "FAM68261000",
+                      "primaryImage": "assets/images/products/FAM6826_1000.png",
+                      "date": "10 November 2022 00:00 UTC"
+                    },
+                    {
+                      "code": "FAM5644",
+                      "color": "B2PQ",
+                      "sku": "FAM5644B2PQ",
+                      "primaryImage": "assets/images/products/FAM5644_B2PQ.png",
+                      "date": "10 November 2022 00:00 UTC"
+                    },
+                    {
+                      "code": "FAM6011",
+                      "color": "B2U1",
+                      "sku": "FAM6011B2U1",
+                      "primaryImage": "assets/images/products/FAM6011_B2U1.png",
+                      "date": "10 November 2022 00:00 UTC"
+                    },
+                    {
+                      "code": "FAM6113",
+                      "color": 1000,
+                      "sku": "FAM61131000",
+                      "primaryImage": "assets/images/products/FAM6113_1000.png",
+                      "date": "10 November 2022 00:00 UTC"
+                    },
+                    {
+                      "code": "FAM6012",
+                      "color": 1232,
+                      "sku": "FAM60121232",
+                      "primaryImage": "assets/images/products/FAM6012_1232.png",
+                      "date": "10 November 2022 00:00 UTC"
+                    },
+                    {
+                      "code": "FAM6114",
+                      "color": 1000,
+                      "sku": "FAM61141000",
+                      "primaryImage": "assets/images/products/FAM6114_1000.png",
+                      "date": "10 November 2022 00:00 UTC"
+                    },
+                    {
+                      "code": "FAM6011",
+                      "color": "B2U2",
+                      "sku": "FAM6011B2U2",
+                      "primaryImage": "assets/images/products/FAM6011_B2U2.png",
+                      "date": "10 November 2022 00:00 UTC"
+                    }
+                  ]
+              },
+              {
+                  "title": {
+                      "en": "Embrace the elements",
+                      "ja": "Embrace the elements", 
+                      "ko": "포근하고 따뜻한 포옹", 
+                      "zh": "溫暖元素", 
+                      "it": "", 
+                      "de": "Den Elementen trotzen",
+                      "fr": "Affrontez sereinement les éléments",
+                      "ru": "Единение с природой"
+                  },
+                  "sectionName": "EMBRACE_THE_ELEMENTS",
+                  "postCard": "assets/images/postcard/post1.png",
+                  "linkPostCard": "https://it.loropiana.com/it/p/cocooning-collection/abito-cocooning-FAM6871?colorCode=1230&xxx=FAM6022J1BQ",
+                  "products": [
+                    {
+                      "code": "FAM6018",
+                      "color": "J1DA",
+                      "sku": "FAM6018J1DA",
+                      "primaryImage": "assets/images/products/FAM6018_J1DA.png",
+                      "date": "10 November 2022 00:00 UTC",
+                      "bundle": "embrace"
+                    },
+                    {
+                      "code": "FAM6658",
+                      "color": "J1DA",
+                      "sku": "FAM6658J1DA",
+                      "primaryImage": "assets/images/products/FAM6658_J1DA.png",
+                      "date": "10 November 2022 00:00 UTC",
+                      "bundle": "embrace"
+                    },
+                    {
+                      "code": "FAM6664",
+                      "color": "J1DA",
+                      "sku": "FAM6664J1DA",
+                      "primaryImage": "assets/images/products/FAM6664_J1DA.png",
+                      "date": "10 November 2022 00:00 UTC",
+                      "bundle": "embrace"
+                    }
+                  ]
+              },
+              {
+                "title": {
+                  "en": "Wrap up warm",
+                  "ja": "Wrap up warm",
+                  "ko": "따뜻한 랩업",
+                  "zh": "溫暖包裹",
+                  "it": "",
+                  "de": "Warm eingepackt",
+                  "fr": "Enveloppez-vous de chaleur",
+                  "ru": "Тепло и комфорт"
+                },
+                "sectionName": "WRAP_UP_WARM",
+                "postCard": "assets/images/postcard/post2.png",
+                "linkPostCard": "",
+                "products": [
+                  {
+                    "code": "FAA1056",
+                    "color": "50JT",
+                    "sku": "FAA105650JT",
+                    "primaryImage": "assets/images/products/FAA1056_50JT.png",
+                    "date": "10 November 2022 00:00 UTC",
+                    "bundle": "warm"
+                  },
+                  {
+                    "code": "FAA1056",
+                    "color": "D754",
+                    "sku": "FAA1056D754",
+                    "primaryImage": "assets/images/products/FAA1056_D754.png",
+                    "date": "10 November 2022 00:00 UTC",
+                    "bundle": "warm"
+                  },
+                  {
+                    "code": "FAF4494",
+                    "color": "308P",
+                    "sku": "FAF4494308P",
+                    "primaryImage": "assets/images/products/FAF4494_308P.png",
+                    "date": "10 November 2022 00:00 UTC",
+                    "bundle": "warm"
+                  },
+                  {
+                    "code": "FAF4494",
+                    "color": "50K0",
+                    "sku": "FAF449450K0",
+                    "primaryImage": "assets/images/products/FAF4494_50K0.png",
+                    "date": "10 November 2022 00:00 UTC",
+                    "bundle": "warm"
+                  }
+                ]
+              },
+              {
+                "title": {
+                  "en": "Fine knits",
+                  "ja": "Fine knits",
+                  "ko": "고급 니트",
+                  "zh": "精細織品",
+                  "it": "",
+                  "de": "Feinstrick",
+                  "fr": "Mailles d'exception",
+                  "ru": "Утонченный трикотаж"
+                },
+                "sectionName": "FINE_KNITS",
+                "postCard": "assets/images/postcard/post3.png",
+                "linkPostCard": "",
+                "products": [
+                  {
+                    "code": "FAA1252",
+                    "color": "W000",
+                    "sku": "FAA1252W000",
+                    "primaryImage": "assets/images/products/FAA1252_W000.png",
+                    "date": "10 November 2022 00:00 UTC",
+                    "bundle": "fine knits"
+                  },
+                  {
+                    "code": "FAE1298",
+                    "color": "W000",
+                    "sku": "FAE1298W000",
+                    "primaryImage": "assets/images/products/FAE1298_W000.png",
+                    "date": "10 November 2022 00:00 UTC",
+                    "bundle": "fine knits"
+                  }
+                ]
+              },
+              {
+                "title": {
+                  "en": "Warmth in the cold",
+                  "ja": "Warmth in the cold",
+                  "ko": "추위를 잊는 따뜻함",
+                  "zh": "冬季溫暖",
+                  "it": "",
+                  "de": "Warm durch die Kälte",
+                  "fr": "Enveloppez-vous de chaleur pour l'hiver",
+                  "ru": "Лед и пламя"
+                },
+                "sectionName": "WARMTH_IN_THE_COLD",
+                "postCard": "assets/images/postcard/post4.png",
+                "linkPostCard": "",
+                "products": [
+                  {
+                    "code": "FAA1158",
+                    "color": "D004",
+                    "sku": "FAA1158D004",
+                    "primaryImage": "assets/images/products/FAA1158_D004.png",
+                    "date": "10 November 2022 00:00 UTC",
+                    "bundle": "warmth in the cold"
+                  },
+                  {
+                    "code": "FAM2939",
+                    "color": "F3JU",
+                    "sku": "FAM2939F3JU",
+                    "primaryImage": "assets/images/products/FAM2939_F3JU.png",
+                    "date": "10 November 2022 00:00 UTC",
+                    "bundle": "warmth in the cold"
+                  },
+                  {
+                    "code": "FAL9659",
+                    "color": "A193",
+                    "sku": "FAL9659A193",
+                    "primaryImage": "assets/images/products/FAL9659_A193.png",
+                    "date": "10 November 2022 00:00 UTC",
+                    "bundle": "warmth in the cold",
+                    "country": "JUSTCA"
+                  },
+                  {
+                    "code": "FAA1158",
+                    "color": "D004",
+                    "sku": "FAA1158D004",
+                    "primaryImage": "assets/images/products/FAA1158_D004.png",
+                    "date": "10 November 2022 00:00 UTC",
+                    "bundle": "warmth in the cold",
+                    "country": "JUSTCA"
+                  }
+                ]
+              },
+              {
+                "title": {
+                  "en": "For furry friends",
+                  "ja": "For furry friends",
+                  "ko": "반려 친구를 위한 선물",
+                  "zh": "送給我們的毛孩",
+                  "it": "",
+                  "de": "Für unsere pelzigen Freunde",
+                  "fr": "Pour nos boules de poils",
+                  "ru": "Для пушистых любимцев"
+                },
+                "sectionName": "FOR_FURRY_FRIENDS",
+                "postCard": "assets/images/postcard/post1.png",
+                "linkPostCard": "",
+                "products": [
+                  {
+                    "code": "FAM2023",
+                    "color": "WI77",
+                    "sku": "FAM2023WI77",
+                    "primaryImage": "assets/images/products/FAM2023_WI77.png",
+                    "date": "10 November 2022 00:00 UTC",
+                    "bundle": "for furry friends"
+                  },
+                  {
+                    "code": "FAM2316",
+                    "color": "W000",
+                    "sku": "FAM2316W000",
+                    "primaryImage": "assets/images/products/FAM2316_W000.png",
+                    "date": "10 November 2022 00:00 UTC",
+                    "bundle": "for furry friends"
+                  },
+                  {
+                    "code": "FAM2317",
+                    "color": "W000",
+                    "sku": "FAM2317W000",
+                    "primaryImage": "assets/images/products/FAM2317_W000.png",
+                    "date": "10 November 2022 00:00 UTC",
+                    "bundle": "for furry friends"
+                  }
+                ]
+              }
+          ]
+      },
+      {
+          "groupName": "MAN",
+          "groupLabel": {
+            "en": "Man",
+            "ja": "メンズ",
+            "ko": "남성",
+            "zh": "男裝",
+            "it": "Uomo",
+            "de": "Herren",
+            "fr": "Homme",
+            "ru": "Для мужчин"
+          },
+          "sections": [
+              {
+                  "title": {
+                    "en": "HOLIDAY GIFT GUIDE", 
+                    "ja": "ホリデー ギフト ガイド", 
+                    "ko": "홀리데이 선물 가이드", 
+                    "zh": "佳節贈禮指南", 
+                    "it": "HOLIDAY GIFT GUIDE", 
+                    "de": "Weihnachtsgeschenke-Finder",
+                    "fr": "Guide cadeaux pour les fêtes",
+                    "ru": "Гид по подаркам"
+                  },
+                  "sectionName": "TOP",
+                  "postCard": "",
+                  "linkPostCard": "",
+                  "products": [
+                      {
+                        "code": "FAM6164",
+                        "color": "D749",
+                        "sku": "FAM6164D749",
+                        "primaryImage": "assets/images/products/FAM6164_D749.png",
+                        "date": "10 November 2022 00:00 UTC"
+                      },
+                      {
+                        "code": "FAL8689",
+                        "color": "W000",
+                        "sku": "FAL8689W000",
+                        "primaryImage": "assets/images/products/FAL8689_W000.png",
+                        "date": "10 November 2022 00:00 UTC"
+                      },
+                      {
+                        "code": "FAM6134",
+                        "color": "F3ZY",
+                        "sku": "FAM6134F3ZY",
+                        "primaryImage": "assets/images/products/FAM6134_F3ZY.png",
+                        "date": "10 November 2022 00:00 UTC"
+                      },
+                      {
+                        "code": "FAM6133",
+                        "color": "F3ZT",
+                        "sku": "FAM6133F3ZT",
+                        "primaryImage": "assets/images/products/FAM6133_F3ZT.png",
+                        "date": "10 November 2022 00:00 UTC"
+                      },
+                      {
+                        "code": "FAM6913",
+                        "color": "E06I",
+                        "sku": "FAM6913E06I",
+                        "primaryImage": "assets/images/products/FAM6913_E06I.png",
+                        "date": "10 November 2022 00:00 UTC"
+                      },
+                      {
+                        "code": "FAM6139",
+                        "color": "F3ZS",
+                        "sku": "FAM6139F3ZS",
+                        "primaryImage": "assets/images/products/FAM6139_F3ZS.png",
+                        "date": "10 November 2022 00:00 UTC"
+                      },
+                      {
+                        "code": "FAL8689",
+                        "color": "D440",
+                        "sku": "FAL8689D440",
+                        "primaryImage": "assets/images/products/FAL8689_D440.png",
+                        "date": "10 November 2022 00:00 UTC"
+                      },
+                      {
+                        "code": "FAM2621",
+                        "color": "W0NH",
+                        "sku": "FAM2621W0NH",
+                        "primaryImage": "assets/images/products/FAM2621_W0NH.png",
+                        "date": "10 November 2022 00:00 UTC"
+                      },
+                      {
+                        "code": "FAM6837",
+                        "color": "H755",
+                        "sku": "FAM6837H755",
+                        "primaryImage": "assets/images/products/FAM6837_H755.png",
+                        "date": "10 November 2022 00:00 UTC"
+                      },
+                      {
+                        "code": "FAM6139",
+                        "color": "F3ZQ",
+                        "sku": "FAM6139F3ZQ",
+                        "primaryImage": "assets/images/products/FAM6139_F3ZQ.png",
+                        "date": "10 November 2022 00:00 UTC"
+                      },
+                      {
+                        "code": "FAM6941",
+                        "color": "F40O",
+                        "sku": "FAM6941F40O",
+                        "primaryImage": "assets/images/products/FAM6941_F40O.png",
+                        "date": "10 November 2022 00:00 UTC"
+                      },
+                      {
+                        "code": "FAM6159",
+                        "color": "D749",
+                        "sku": "FAM6159D749",
+                        "primaryImage": "assets/images/products/FAM6159_D749.png",
+                        "date": "10 November 2022 00:00 UTC"
+                      },
+                      {
+                        "code": "FAM6777",
+                        "color": "E06I",
+                        "sku": "FAM6777E06I",
+                        "primaryImage": "assets/images/products/FAM6777_E06I.png",
+                        "date": "10 November 2022 00:00 UTC"
+                      },
+                      {
+                        "code": "FAM6849",
+                        "color": "H0H0",
+                        "sku": "FAM6849H0H0",
+                        "primaryImage": "assets/images/products/FAM6849_H0H0.png",
+                        "date": "10 November 2022 00:00 UTC"
+                      },
+                      {
+                        "code": "FAM6136",
+                        "color": "J1BR",
+                        "sku": "FAM6136J1BR",
+                        "primaryImage": "assets/images/products/FAM6136_J1BR.png",
+                        "date": "10 November 2022 00:00 UTC"
+                      },
+                      {
+                        "code": "FAM6939",
+                        "color": "F3ZZ",
+                        "sku": "FAM6939F3ZZ",
+                        "primaryImage": "assets/images/products/FAM6939_F3ZZ.png",
+                        "date": "10 November 2022 00:00 UTC"
+                      },
+                      {
+                        "code": "FAM6136",
+                        "color": "J1BQ",
+                        "sku": "FAM6136J1BQ",
+                        "primaryImage": "assets/images/products/FAM6136_J1BQ.png",
+                        "date": "10 November 2022 00:00 UTC"
+                      },
+                      {
+                        "code": "FAM6943",
+                        "color": "F3ZZ",
+                        "sku": "FAM6943F3ZZ",
+                        "primaryImage": "assets/images/products/FAM6943_F3ZZ.png",
+                        "date": "10 November 2022 00:00 UTC"
+                      },
+                      {
+                        "code": "FAM6851",
+                        "color": "101B",
+                        "sku": "FAM6851101B",
+                        "primaryImage": "assets/images/products/FAM6851_101B.png",
+                        "date": "10 November 2022 00:00 UTC"
+                      },
+                      {
+                        "code": "FAM6140",
+                        "color": "F3ZJ",
+                        "sku": "FAM6140F3ZJ",
+                        "primaryImage": "assets/images/products/FAM6140_F3ZJ.png",
+                        "date": "10 November 2022 00:00 UTC"
+                      },
+                      {
+                        "code": "FAM6855",
+                        "color": "J1BQ",
+                        "sku": "FAM6855J1BQ",
+                        "primaryImage": "assets/images/products/FAM6855_J1BQ.png",
+                        "date": "10 November 2022 00:00 UTC"
+                      },
+                      {
+                        "code": "FAM6873",
+                        "color": "F3ZJ",
+                        "sku": "FAM6873F3ZJ",
+                        "primaryImage": "assets/images/products/FAM6873_F3ZJ.png",
+                        "date": "10 November 2022 00:00 UTC"
+                      },
+                      {
+                        "code": "FAM6870",
+                        "color": "F3ZJ",
+                        "sku": "FAM6870F3ZJ",
+                        "primaryImage": "assets/images/products/FAM6870_F3ZJ.png",
+                        "date": "10 November 2022 00:00 UTC"
+                      },
+                      {
+                        "code": "FAM6133",
+                        "color": "F3ZU",
+                        "sku": "FAM6133F3ZU",
+                        "primaryImage": "assets/images/products/FAM6133_F3ZU.png",
+                        "date": "10 November 2022 00:00 UTC"
+                      }
+                  ]
+              },
+              {
+                "title": {
+                  "en": "The great outdoors",
+                  "ja": "The great outdoors",
+                  "ko": "대자연 속으로",
+                  "zh": "戶外活動",
+                  "it": "",
+                  "de": "Die freie Natur",
+                  "fr": "Sélection plein air",
+                  "ru": "Бескрайние пейзажи"
+                },
+                "sectionName": "THE_GREAT_OUTDOORS",
+                "postCard": "assets/images/postcard/post1.png",
+                "linkPostCard": "",
+                "products": [
+                  {
+                    "code": "FAF8520",
+                    "color": "5C10",
+                    "sku": "FAF85205C10",
+                    "primaryImage": "assets/images/products/FAF8520_5C10.png",
+                    "date": "10 November 2022 00:00 UTC",
+                    "bundle": "the great outdoors"
+                  },
+                  {
+                    "code": "FAG4758",
+                    "color": "M047",
+                    "sku": "FAG4758M047",
+                    "primaryImage": "assets/images/products/FAG4758_M047.png",
+                    "date": "10 November 2022 00:00 UTC",
+                    "bundle": "the great outdoors"
+                  },
+                  {
+                    "code": "FAM6850",
+                    "color": "F3Y7",
+                    "sku": "FAM6850F3Y7",
+                    "primaryImage": "assets/images/products/FAM6850_F3Y7.png",
+                    "date": "10 November 2022 00:00 UTC",
+                    "bundle": "the great outdoors"
+                  },
+                  {
+                    "code": "FAL9884",
+                    "color": "W000",
+                    "sku": "FAL9884W000",
+                    "primaryImage": "assets/images/products/FAL9884_W000.png",
+                    "date": "10 November 2022 00:00 UTC",
+                    "bundle": "the great outdoors",
+                    "country": "JUSTKR, JUSTHK"
+                  },
+                  {
+                    "code": "FAM6134",
+                    "color": "F3ZY",
+                    "sku": "FAM6134F3ZY",
+                    "primaryImage": "assets/images/products/FAM6134_F3ZY.png",
+                    "date": "10 November 2022 00:00 UTC",
+                    "bundle": "the great outdoors",
+                    "country": "JUSTKR, JUSTHK"
+                  },
+                  {
+                    "code": "FAM6913",
+                    "color": "W121",
+                    "sku": "FAM6913W121",
+                    "primaryImage": "assets/images/products/FAM6913_W121.png",
+                    "date": "10 November 2022 00:00 UTC",
+                    "bundle": "the great outdoors",
+                    "country": "JUSTKR, JUSTHK"
+                  }
+                ]
+              },
+              {
+                "title": {
+                  "en": "Winter accessories",
+                  "ja": "Winter accessories",
+                  "ko": "겨울 액세서리",
+                  "zh": "冬季配飾",
+                  "it": "",
+                  "de": "Winter-Accessoires",
+                  "fr": "Accessoires d'hiver",
+                  "ru": "Зимние аксессуары"
+                },
+                "sectionName": "WINTER_ACCESSORIES",
+                "postCard": "assets/images/postcard/post2.png",
+                "linkPostCard": "",
+                "products": [
+                  {
+                    "code": "FAF6131",
+                    "color": "FD4Y",
+                    "sku": "FAF6131FD4Y",
+                    "primaryImage": "assets/images/products/FAF6131_FD4Y.png",
+                    "date": "10 November 2022 00:00 UTC",
+                    "bundle": "winter accessories"
+                  },
+                  {
+                    "code": "FAG4758",
+                    "color": "H027",
+                    "sku": "FAG4758H027",
+                    "primaryImage": "assets/images/products/FAG4758_H027.png",
+                    "date": "10 November 2022 00:00 UTC",
+                    "bundle": "winter accessories"
+                  },
+                  {
+                    "code": "FAI3766",
+                    "color": "W000",
+                    "sku": "FAI3766W000",
+                    "primaryImage": "assets/images/products/FAI3766_W000.png",
+                    "date": "10 November 2022 00:00 UTC",
+                    "bundle": "winter accessories"
+                  }
+                ]
+              },
+              {
+                "title": {
+                  "en": "Comfort and elegance",
+                  "ja": "Comfort and elegance",
+                  "ko": "편안함과 우아함",
+                  "zh": "舒適優雅",
+                  "it": "",
+                  "de": "Komfort und Eleganz",
+                  "fr": "Confort et élégance",
+                  "ru": "Комфортная элегантность"
+                },
+                "sectionName": "COMFORT_AND_ELEGANCE",
+                "postCard": "assets/images/postcard/post3.png",
+                "linkPostCard": "",
+                "products": [
+                  {
+                    "code": "FAM5928",
+                    "color": "F3X0",
+                    "sku": "FAM5928F3X0",
+                    "primaryImage": "assets/images/products/FAM5928_F3X0.png",
+                    "date": "10 November 2022 00:00 UTC",
+                    "bundle": "comfort and elegance"
+                  },
+                  {
+                    "code": "FAM5928",
+                    "color": "F3X1",
+                    "sku": "FAM5928F3X1",
+                    "primaryImage": "assets/images/products/FAM5928_F3X1.png",
+                    "date": "10 November 2022 00:00 UTC",
+                    "bundle": "comfort and elegance"
+                  },
+                  {
+                    "code": "FAM5928",
+                    "color": "F3X8",
+                    "sku": "FAM5928F3X8",
+                    "primaryImage": "assets/images/products/FAM5928_F3X8.png",
+                    "date": "10 November 2022 00:00 UTC",
+                    "bundle": "comfort and elegance"
+                  }
+                ]
+              },
+              {
+                "title": {
+                  "en": "For the journey ahead",
+                  "ja": "For the journey ahead",
+                  "ko": "다가오는 여정",
+                  "zh": "未來旅程",
+                  "it": "",
+                  "de": "Für die bevorstehende Reise",
+                  "fr": "Taillé pour l'aventure",
+                  "ru": "Для будущих путешествий"
+                },
+                "sectionName": "FOR_THE_JOURNEY_AHEAD",
+                "postCard": "assets/images/postcard/post4.png",
+                "linkPostCard": "",
+                "products": [
+                  {
+                    "code": "FAI3766",
+                    "color": 8000,
+                    "sku": "FAI37668000",
+                    "primaryImage": "assets/images/products/FAI3766_8000.png",
+                    "date": "10 November 2022 00:00 UTC",
+                    "bundle": "for the journey ahead"
+                  },
+                  {
+                    "code": "FAI3766",
+                    "color": "M004",
+                    "sku": "FAI3766M004",
+                    "primaryImage": "assets/images/products/FAI3766_M004.png",
+                    "date": "10 November 2022 00:00 UTC",
+                    "bundle": "for the journey ahead"
+                  },
+                  {
+                    "code": "FAI3766",
+                    "color": "R578",
+                    "sku": "FAI3766R578",
+                    "primaryImage": "assets/images/products/FAI3766_R578.png",
+                    "date": "10 November 2022 00:00 UTC",
+                    "bundle": "for the journey ahead"
+                  }
+                ]
+              },
+              {
+                "title": {
+                  "en": "For the journey ahead",
+                  "ja": "For the journey ahead",
+                  "ko": "다가오는 여정",
+                  "zh": "未來旅程",
+                  "it": "",
+                  "de": "Für die bevorstehende Reise",
+                  "fr": "Taillé pour l'aventure",
+                  "ru": "Для будущих путешествий"
+                },
+                "sectionName": "FOR_THE_JOURNEY_AHEAD",
+                "postCard": "assets/images/postcard/post1.png",
+                "linkPostCard": "",
+                "products": [
+                  {
+                    "code": "FAI3766",
+                    "color": 8000,
+                    "sku": "FAI37668000",
+                    "primaryImage": "assets/images/products/FAI3766_8000.png",
+                    "date": "10 November 2022 00:00 UTC",
+                    "bundle": "for the journey ahead"
+                  },
+                  {
+                    "code": "FAI3766",
+                    "color": "M004",
+                    "sku": "FAI3766M004",
+                    "primaryImage": "assets/images/products/FAI3766_M004.png",
+                    "date": "10 November 2022 00:00 UTC",
+                    "bundle": "for the journey ahead"
+                  },
+                  {
+                    "code": "FAI3766",
+                    "color": "R578",
+                    "sku": "FAI3766R578",
+                    "primaryImage": "assets/images/products/FAI3766_R578.png",
+                    "date": "10 November 2022 00:00 UTC",
+                    "bundle": "for the journey ahead"
+                  }
+                ]
+              },
+              {
+                "title": {
+                  "en": "Comfort at home",
+                  "ja": "Comfort at home",
+                  "ko": "집에서 즐기는 편안함",
+                  "zh": "愜意居家",
+                  "it": "",
+                  "de": "Komfort zu Hause",
+                  "fr": "Le confort s'invite dans votre foyer",
+                  "ru": "Комфорт для дома"
+                },
+                "sectionName": "COMFORT_AT_HOME_MEN",
+                "postCard": "assets/images/postcard/post2.png",
+                "linkPostCard": "",
+                "products": [
+                  {
+                    "code": "FAA1158",
+                    "color": "M113",
+                    "sku": "FAA1158M113",
+                    "primaryImage": "assets/images/products/FAA1158_M113.png",
+                    "date": "10 November 2022 00:00 UTC",
+                    "bundle": "comfrot at home"
+                  },
+                  {
+                    "code": "FAM2941",
+                    "color": "H04U",
+                    "sku": "FAM2941H04U",
+                    "primaryImage": "assets/images/products/FAM2941_H04U.png",
+                    "date": "10 November 2022 00:00 UTC",
+                    "bundle": "comfrot at home"
+                  },
+                  {
+                    "code": "FAL9659",
+                    "color": "A193",
+                    "sku": "FAL9659A193",
+                    "primaryImage": "assets/images/products/FAL9659_A193.png",
+                    "date": "10 November 2022 00:00 UTC",
+                    "bundle": "comfrot at home",
+                    "country": "JUSTCA"
+                  },
+                  {
+                    "code": "FAA1158",
+                    "color": "D004",
+                    "sku": "FAA1158D004",
+                    "primaryImage": "assets/images/products/FAA1158_D004.png",
+                    "date": "10 November 2022 00:00 UTC",
+                    "bundle": "comfrot at home",
+                    "country": "JUSTCA"
+                  }
+                ]
+              },
+              {
+                "title": {
+                  "en": "For furry friends",
+                  "ja": "For furry friends",
+                  "ko": "반려 친구를 위한 선물",
+                  "zh": "送給我們的毛孩",
+                  "it": "",
+                  "de": "Für unsere pelzigen Freunde",
+                  "fr": "Pour nos boules de poils",
+                  "ru": "Для пушистых любимцев"
+                },
+                "sectionName": "FOR_FURRY_FRIENDS_MEN",
+                "postCard": "assets/images/postcard/post3.png",
+                "linkPostCard": "",
+                "products": [
+                  {
+                    "code": "FAM2023",
+                    "color": "WI77",
+                    "sku": "FAM2023WI77",
+                    "primaryImage": "assets/images/products/FAM2023_WI77.png",
+                    "date": "10 November 2022 00:00 UTC",
+                    "bundle": "for furry friends"
+                  },
+                  {
+                    "code": "FAM2316",
+                    "color": "W000",
+                    "sku": "FAM2316W000",
+                    "primaryImage": "assets/images/products/FAM2316_W000.png",
+                    "date": "10 November 2022 00:00 UTC",
+                    "bundle": "for furry friends"
+                  },
+                  {
+                    "code": "FAM2317",
+                    "color": "W000",
+                    "sku": "FAM2317W000",
+                    "primaryImage": "assets/images/products/FAM2317_W000.png",
+                    "date": "10 November 2022 00:00 UTC",
+                    "bundle": "for furry friends"
+                  }
+                ]
+              }
+          ]
+      },
+      {
+          "groupName": "KIDS",
+          "groupLabel": {
+              "en": "Kids", 
+              "ja": "レディス", 
+              "ko": "여성", 
+              "zh": "女裝", 
+              "it": "Donna", 
+              "de": "Damen",
+              "fr": "Femme",
+              "ru": "Для женщин"
+          },
+          "sections": [
+              {
+                  "title": {
+                    "en": "HOLIDAY GIFT GUIDE", 
+                    "ja": "ホリデー ギフト ガイド", 
+                    "ko": "홀리데이 선물 가이드", 
+                    "zh": "佳節贈禮指南", 
+                    "it": "HOLIDAY GIFT GUIDE", 
+                    "de": "Weihnachtsgeschenke-Finder",
+                    "fr": "Guide cadeaux pour les fêtes",
+                    "ru": "Гид по подаркам"
+                  },
+                  "sectionName": "TOP",
+                  "postCard": "",
+                  "linkPostCard": "",
+                  "products": [
+                    {
+                      "code": "FAM6512",
+                      "color": "1000",
+                      "sku": "FAM65121000",
+                      "primaryImage": "assets/images/products/FAM6512_1000.png",
+                      "date": "10 November 2022 00:00 UTC",
+                      "section": "top"
+                    },
+                    {
+                      "code": "FAM6239",
+                      "color": "J1DA",
+                      "sku": "FAM6239J1DA",
+                      "primaryImage": "assets/images/products/FAM6239_J1DA.png",
+                      "date": "10 November 2022 00:00 UTC",
+                      "section": "top"
+                    },
+                    {
+                      "code": "FAM6505",
+                      "color": "J1DH",
+                      "sku": "FAM6505J1DH",
+                      "primaryImage": "assets/images/products/FAM6505_J1DH.png",
+                      "date": "10 November 2022 00:00 UTC",
+                      "section": "top"
+                    },
+                    {
+                      "code": "FAM6998",
+                      "color": "B2U0",
+                      "sku": "FAM6998B2U0",
+                      "primaryImage": "assets/images/products/FAM6998_B2U0.png",
+                      "date": "10 November 2022 00:00 UTC",
+                      "section": "top"
+                    },
+                    {
+                      "code": "FAM6254",
+                      "color": "J1DH",
+                      "sku": "FAM6254J1DH",
+                      "primaryImage": "assets/images/products/FAM6254_J1DH.png",
+                      "date": "10 November 2022 00:00 UTC",
+                      "section": "top"
+                    },
+                    {
+                      "code": "FAM5204",
+                      "color": "J1DH",
+                      "sku": "FAM5204J1DH",
+                      "primaryImage": "assets/images/products/FAM5204_J1DH.png",
+                      "date": "10 November 2022 00:00 UTC",
+                      "section": "top"
+                    },
+                    {
+                      "code": "FAM6236",
+                      "color": "J1DA",
+                      "sku": "FAM6236J1DA",
+                      "primaryImage": "assets/images/products/FAM6236_J1DA.png",
+                      "date": "10 November 2022 00:00 UTC",
+                      "section": "top"
+                    },
+                    {
+                      "code": "FAM7004",
+                      "color": "W0SB",
+                      "sku": "FAM7004W0SB",
+                      "primaryImage": "assets/images/products/FAM7004_W0SB.png",
+                      "date": "10 November 2022 00:00 UTC",
+                      "section": "top"
+                    },
+                    {
+                      "code": "FAM6235",
+                      "color": "F4B0",
+                      "sku": "FAM6235F4B0",
+                      "primaryImage": "assets/images/products/FAM6235_F4B0.png",
+                      "date": "10 November 2022 00:00 UTC",
+                      "section": "top"
+                    },
+                    {
+                      "code": "FAM6250",
+                      "color": "T0YS",
+                      "sku": "FAM6250T0YS",
+                      "primaryImage": "assets/images/products/FAM6250_T0YS.png",
+                      "date": "10 November 2022 00:00 UTC",
+                      "section": "top"
+                    },
+                    {
+                      "code": "FAM6250",
+                      "color": "T0YT",
+                      "sku": "FAM6250T0YT",
+                      "primaryImage": "assets/images/products/FAM6250_T0YT.png",
+                      "date": "10 November 2022 00:00 UTC",
+                      "section": "top"
+                    },
+                    {
+                      "code": "FAM6240",
+                      "color": "F4AX",
+                      "sku": "FAM6240F4AX",
+                      "primaryImage": "assets/images/products/FAM6240_F4AX.png",
+                      "date": "10 November 2022 00:00 UTC",
+                      "section": "top"
+                    },
+                    {
+                      "code": "FAM6506",
+                      "color": "F4AX",
+                      "sku": "FAM6506F4AX",
+                      "primaryImage": "assets/images/products/FAM6506_F4AX.png",
+                      "date": "10 November 2022 00:00 UTC",
+                      "section": "top"
+                    },
+                    {
+                      "code": "FAL9512",
+                      "color": "F1SO",
+                      "sku": "FAL9512F1SO",
+                      "primaryImage": "assets/images/products/FAL9512_F1SO.png",
+                      "date": "10 November 2022 00:00 UTC",
+                      "section": "top"
+                    },
+                    {
+                      "code": "FAM6241",
+                      "color": "F4AZ",
+                      "sku": "FAM6241F4AZ",
+                      "primaryImage": "assets/images/products/FAM6241_F4AZ.png",
+                      "date": "10 November 2022 00:00 UTC",
+                      "section": "top"
+                    },
+                    {
+                      "code": "FAM6506",
+                      "color": "F4AZ",
+                      "sku": "FAM6506F4AZ",
+                      "primaryImage": "assets/images/products/FAM6506_F4AZ.png",
+                      "date": "10 November 2022 00:00 UTC",
+                      "section": "top"
+                    },
+                    {
+                      "code": "FAM6242",
+                      "color": "F4AV",
+                      "sku": "FAM6242F4AV",
+                      "primaryImage": "assets/images/products/FAM6242_F4AV.png",
+                      "date": "10 November 2022 00:00 UTC",
+                      "section": "top"
+                    },
+                    {
+                      "code": "FAM7006",
+                      "color": "F4AQ",
+                      "sku": "FAM7006F4AQ",
+                      "primaryImage": "assets/images/products/FAM7006_F4AQ.png",
+                      "date": "10 November 2022 00:00 UTC",
+                      "section": "top"
+                    },
+                    {
+                      "code": "FAM7007",
+                      "color": "F4AQ",
+                      "sku": "FAM7007F4AQ",
+                      "primaryImage": "assets/images/products/FAM7007_F4AQ.png",
+                      "date": "10 November 2022 00:00 UTC",
+                      "section": "top"
+                    },
+                    {
+                      "code": "FAM7006",
+                      "color": "F4AR",
+                      "sku": "FAM7006F4AR",
+                      "primaryImage": "assets/images/products/FAM7006_F4AR.png",
+                      "date": "10 November 2022 00:00 UTC",
+                      "section": "top"
+                    },
+                    {
+                      "code": "FAM7007",
+                      "color": "F4AQ",
+                      "sku": "FAM7007F4AQ",
+                      "primaryImage": "assets/images/products/FAM7007_F4AQ.png",
+                      "date": "10 November 2022 00:00 UTC",
+                      "section": "top"
+                    },
+                    {
+                      "code": "FAM6244",
+                      "color": "B2U3",
+                      "sku": "FAM6244B2U3",
+                      "primaryImage": "assets/images/products/FAM6244_B2U3.png",
+                      "date": "10 November 2022 00:00 UTC",
+                      "section": "top"
+                    },
+                    {
+                      "code": "FAM6244",
+                      "color": "B2U4",
+                      "sku": "FAM6244B2U4",
+                      "primaryImage": "assets/images/products/FAM6244_B2U4.png",
+                      "date": "10 November 2022 00:00 UTC",
+                      "section": "top"
+                    },
+                    {
+                      "code": "FAM6259",
+                      "color": "P06N",
+                      "sku": "FAM6259P06N",
+                      "primaryImage": "assets/images/products/FAM6259_P06N.png",
+                      "date": "10 November 2022 00:00 UTC",
+                      "section": "top"
+                    },
+                    {
+                      "code": "FAM6237",
+                      "color": "D0D4",
+                      "sku": "FAM6237D0D4",
+                      "primaryImage": "assets/images/products/FAM6237_D0D4.png",
+                      "date": "10 November 2022 00:00 UTC",
+                      "section": "top"
+                    }
+                  ]
+              },
+              {
+                "title": {
+                  "en": "For little ones",
+                  "ja": "For little ones",
+                  "ko": "베이비 룩",
+                  "zh": "送給小朋友",
+                  "it": "",
+                  "de": "Für die lieben Kleinen",
+                  "fr": "Pour les tout petits",
+                  "ru": "Для самых маленьких"
+                },
+                "sectionName": "FOR_LITTLE_ONES",
+                "postCard": "assets/images/postcard/post1.png",
+                "linkPostCard": "",
+                "products": [
+                  {
+                    "code": "FAM0631",
+                    "color": "B2ET",
+                    "sku": "FAM0631B2ET",
+                    "primaryImage": "assets/images/products/FAM0631_B2ET.png",
+                    "date": "10 November 2022 00:00 UTC",
+                    "section": "for little one"
+                  },
+                  {
+                    "code": "FAM0632",
+                    "color": "B2ET",
+                    "sku": "FAM0632B2ET",
+                    "primaryImage": "assets/images/products/FAM0632_B2ET.png",
+                    "date": "10 November 2022 00:00 UTC",
+                    "section": "for little one"
+                  },
+                  {
+                    "code": "FAM2368",
+                    "color": "B2ET",
+                    "sku": "FAM2368B2ET",
+                    "primaryImage": "assets/images/products/FAM2368_B2ET.png",
+                    "date": "10 November 2022 00:00 UTC",
+                    "section": "for little one"
+                  },
+                  {
+                    "code": "FAM2579",
+                    "color": "B2ET",
+                    "sku": "FAM2579B2ET",
+                    "primaryImage": "assets/images/products/FAM2579_B2ET.png",
+                    "date": "10 November 2022 00:00 UTC",
+                    "section": "for little one"
+                  },
+                  {
+                    "code": "FAM0633",
+                    "color": "B2ET",
+                    "sku": "FAM0633B2ET",
+                    "primaryImage": "assets/images/products/FAM0633_B2ET.png",
+                    "date": "10 November 2022 00:00 UTC",
+                    "section": "for little one"
+                  },
+                  {
+                    "code": "FAM1611",
+                    "color": "B2ET",
+                    "sku": "FAM1611B2ET",
+                    "primaryImage": "assets/images/products/FAM1611_B2ET.png",
+                    "date": "10 November 2022 00:00 UTC",
+                    "section": "for little one"
+                  }
+                ]
+              },
+              {
+                "title": {
+                  "en": "For precious moments",
+                  "ja": "For precious moments",
+                  "ko": "소중한 순간",
+                  "zh": "珍貴時刻",
+                  "it": "",
+                  "de": "Für kostbare Momente",
+                  "fr": "Pour les moments particuliers",
+                  "ru": "Для особенных случаев"
+                },
+                "sectionName": "FOR_PRECIOUS_MOMENTS",
+                "postCard": "assets/images/postcard/post2.png",
+                "linkPostCard": "",
+                "products": [
+                  {
+                    "code": "FAM6998",
+                    "color": "B2U0",
+                    "sku": "FAM6998B2U0",
+                    "primaryImage": "assets/images/products/FAM6998_B2U0.png",
+                    "date": "10 November 2022 00:00 UTC",
+                    "section": "for precious moments"
+                  },
+                  {
+                    "code": "FAM6250",
+                    "color": "T0YS",
+                    "sku": "FAM6250T0YS",
+                    "primaryImage": "assets/images/products/FAM6250_T0YS.png",
+                    "date": "10 November 2022 00:00 UTC",
+                    "section": "for precious moments"
+                  },
+                  {
+                    "code": "FAM4279",
+                    "color": "F3RA",
+                    "sku": "FAM4279F3RA",
+                    "primaryImage": "assets/images/products/FAM4279_F3RA.png",
+                    "date": "10 November 2022 00:00 UTC",
+                    "section": "for precious moments"
+                  },
+                  {
+                    "code": "FAM4294",
+                    "color": "F3RA",
+                    "sku": "FAM4294F3RA",
+                    "primaryImage": "assets/images/products/FAM4294_F3RA.png",
+                    "date": "10 November 2022 00:00 UTC",
+                    "section": "for precious moments"
+                  }
+                ]
+              }
+          ]
+      }
+  ]
+}
