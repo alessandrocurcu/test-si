@@ -55,12 +55,12 @@ __webpack_require__.r(__webpack_exports__);
 let ApiService = class ApiService extends _base_api__WEBPACK_IMPORTED_MODULE_3__["BaseApi"] {
     GetJsonLabel() {
         var version = new Date().toLocaleString();
-        var jsonPath = 'https://it.loropiana.com/en/ck-static/assets/data/schema-contents.json?' + version;
+        var jsonPath = '../../../assets//data/schema-contents.json?' + version;
         return this._get(jsonPath);
     }
     GetJsonProducts() {
         var version = new Date().toLocaleString();
-        var jsonPath = 'https://it.loropiana.com/en/ck-static/assets/data/schema_products.json?' + version;
+        var jsonPath = '../../../assets//data/schema_products.json?' + version;
         return this._get(jsonPath);
     }
     GetSample(id) {
